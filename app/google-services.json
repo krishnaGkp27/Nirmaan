@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374917760055",
+    "firebase_url": "https://nirmaan-2493b.firebaseio.com",
+    "project_id": "nirmaan-2493b",
+    "storage_bucket": "nirmaan-2493b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374917760055:android:cdcb04d54ee7342f54abb2",
+        "android_client_info": {
+          "package_name": "com.example.nirmaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374917760055-rum9jkbrr0n1sfv8vhu9roq5505flg46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirmaan",
+            "certificate_hash": "dcd66c567abe63d291ca6e5f4a6964882cae3cd2"
+          }
+        },
+        {
+          "client_id": "374917760055-g8bg95cvfe67aogp33hio67inhetaep1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiz5F8RsVZaQKJ3Gvapq_UFUeBcecNEeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374917760055-g8bg95cvfe67aogp33hio67inhetaep1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
